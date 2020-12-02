@@ -1,15 +1,16 @@
+/* styling for all elements - universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* This is the background color of the body */
+/* Background color of the body */
 body {
     background-color: #d9dcd6;
 }
 
-/* Styling for the header */
+/* Styling for the header and navigation bar*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -44,16 +45,18 @@ header nav li {
     margin-left: 25px;
 }
 
-/* text color for the navigation links */
+/* styling for the navigation links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* font size for all the paragraphs on the page */
 p {
     font-size: 16px;
 }
 
+/* background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +66,7 @@ p {
     background-position: center;
 }
 
+/* styling for the main content including images */
 main {
     width: 75%;
     display: inline-block;
@@ -97,6 +101,7 @@ main {
     font-size: 36px;
 }
 
+/* styling for the sidebar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,6 +129,7 @@ main {
     max-width: 150px;
 }
 
+/* styling for the footer */
 footer {
     padding: 30px;
     clear: both;
