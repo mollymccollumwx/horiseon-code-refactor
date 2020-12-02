@@ -1,6 +1,8 @@
 # Horiseon Code Refactor
 
-## Project Purpose:
+[![GitHub issues](https://img.shields.io/github/issues/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor/issues) [![GitHub forks](https://img.shields.io/github/forks/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor/network) [![GitHub stars](https://img.shields.io/github/stars/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor/stargazers) [![GitHub license](https://img.shields.io/github/license/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor) 
+
+## Purpose:
 
 ---
 
@@ -12,25 +14,22 @@ This project refactored the HTML and CSS for the Horiseon company web page in or
 
 * Elimnating redundant or repeating code 
 
-* Fixing any broken links 
+* Fixing broken links 
 
 * Consolidating and reorganzing the CSS selectors to match the semantic structure and order of the HTML 
 
 
-
-
-## Completed Web Page
+## Usage
 
 ---
 
+[The Deployed Wesbite](https://mollymccollumwx.github.io/horiseon-code-refactor/ "Refactored Horiseon Website") now features accessibility features from video captures, screen readers, and braille keyboards. The accessibility improvements also allow for better positioning in search engines. 
+
 ![Updated Horiseon Webpage](assets/images/Horiseon-Completed-Webpage.png)
 
+The updated HTML and CSS code can be found in the Horiseon-Code-Refactor [GitHub Repository](https://github.com/mollymccollumwx/horiseon-code-refactor "Horiseon Code Refactor Repository").
 
-[Deployed Website](https://mollymccollumwx.github.io/horiseon-code-refactor/ "Refactored Horiseon Website")
-
-[Project GitHub Repository](https://github.com/mollymccollumwx/horiseon-code-refactor "Horiseon Code Refactor Repository")
-
-## Contributors
+## Credits
 
 ---
 
