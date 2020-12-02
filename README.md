@@ -1,37 +1,46 @@
 # Horiseon Code Refactor
 
 ## Project Purpose:
-This project refactored the HTML and CSS for the Horiseon company web page. The changes made to the code include:
 
-* Replacing `<div>` tags with semantic HTML elements such as `<header>`, `<nav>`, `<main>`, `<section>`, and `<footer>`. 
+---
 
-* Making the web page **accessible** by adding `<alt>` attributes.
+This project refactored the HTML and CSS for the Horiseon company web page in order to improve the functionality, readability, and accessibility. The changes made to the code include:
 
-* Elimnating redundant or repeating code. 
+* Replacing `<div>` tags with semantic HTML elements such as `<header>`, `<nav>`, `<main>`, `<section>`, and `<footer>`
 
-* Fixing any broken links. 
+* Making the web page **accessible** by adding `<alt>` attributes
 
-* Consolidating and reorganzing the CSS selectors to match the semantic structure and order of the HTML. 
+* Elimnating redundant or repeating code 
 
+* Fixing any broken links 
 
-
-
-
+* Consolidating and reorganzing the CSS selectors to match the semantic structure and order of the HTML 
 
 
 
 
+## Completed Web Page
+
+---
+
+![Updated Horiseon Webpage](assets/images/Horiseon-Completed-Webpage.png)
 
 
+[Deployed Website](https://mollymccollumwx.github.io/horiseon-code-refactor/ "Refactored Horiseon Website")
 
+[Project GitHub Repository](https://github.com/mollymccollumwx/horiseon-code-refactor "Horiseon Code Refactor Repository")
 
+## Contributors
 
+---
 
+This project was completed during the GA Tech Full Stack Flex Bootcamp. Collaborators include teaching assistants and tutors.  
 
+---
 
+## License 
 
-
-
+---
 
 
 MIT License
