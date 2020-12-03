@@ -35,8 +35,6 @@ The updated HTML and CSS code can be found in the Horiseon-Code-Refactor [GitHub
 
 This project was completed during the GA Tech Full Stack Flex Bootcamp. Collaborators include teaching assistants and tutors.  
 
----
-
 ## License 
 
 ---
