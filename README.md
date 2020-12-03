@@ -1,6 +1,6 @@
 # Horiseon Code Refactor
 
-[![GitHub issues](https://img.shields.io/github/issues/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor/issues) [![GitHub forks](https://img.shields.io/github/forks/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor/network) [![GitHub stars](https://img.shields.io/github/stars/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor/stargazers) [![GitHub license](https://img.shields.io/github/license/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor) 
+[![GitHub issues](https://img.shields.io/github/issues/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor/issues) [![GitHub forks](https://img.shields.io/github/forks/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor/network) [![GitHub stars](https://img.shields.io/github/stars/mollymccollumwx/horiseon-code-refactor)](https://github.com/mollymccollumwx/horiseon-code-refactor/stargazers)
 
 ## Purpose:
 
@@ -8,22 +8,22 @@
 
 This project refactored the HTML and CSS for the Horiseon company web page in order to improve the functionality, readability, and accessibility. The changes made to the code include:
 
-* Replacing `<div>` tags with semantic HTML elements such as `<header>`, `<nav>`, `<main>`, `<section>`, and `<footer>`
+* Replaced generic `<div>` tags with semantic HTML elements such as `<header>`, `<nav>`, `<main>`, `<section>`, and `<footer>`
 
-* Making the web page **accessible** by adding `<alt>` attributes
+* Made the web page **accessible** by adding `<alt>` attributes to images
 
-* Elimnating redundant or repeating code 
+* Eliminated redundant or repeating code 
 
-* Fixing broken links 
+* Fixed broken links in the navigation bar
 
-* Consolidating and reorganzing the CSS selectors to match the semantic structure and order of the HTML 
+* Consolidated and reorganized the CSS selectors to match the semantic structure and order of the HTML 
 
 
 ## Usage
 
 ---
 
-[The Deployed Wesbite](https://mollymccollumwx.github.io/horiseon-code-refactor/ "Refactored Horiseon Website") now features accessibility features from video captures, screen readers, and braille keyboards. The accessibility improvements also allow for better positioning in search engines. 
+[The Deployed Wesbite](https://mollymccollumwx.github.io/horiseon-code-refactor/ "Refactored Horiseon Website") now includes accessibility features for video captures, screen readers, and braille keyboards. The accessibility improvements also allow for better positioning in search engines. 
 
 ![Updated Horiseon Webpage](assets/images/Horiseon-Completed-Webpage.png)
 
